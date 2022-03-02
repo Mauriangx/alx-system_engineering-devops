@@ -24,3 +24,5 @@ File 11-lists writes a script that lists all files (even ones with names beginni
 parent of the working directory and the /boot directory (in this order), in long format.
 
 File 12-file_type writes a script that prints the type of the file named iamafile.
+
+File 13-symbolic_link creates a symbolic link to /bin/ls, named ls
